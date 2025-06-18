@@ -15,7 +15,7 @@ Built with the tools and technologies:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ---
 
 ## Overview
@@ -44,8 +44,7 @@ This project aims to deliver a comprehensive safety platform with seamless user 
 - **⚙️ Modular Architecture:**  
   Configurable setup supporting React, Tailwind CSS, ESLint, and TypeScript for maintainability.
 
-- **🔬 Testing & Optimization:**  
-  Built-in testing and build configurations ensure reliability and performance.
+- 🔬 **Testing & Optimization:** Built-in testing and build configurations ensure reliability and performance, including automated end-to-end tests using Selenium for browser interaction simulation.
 
 ---
 
